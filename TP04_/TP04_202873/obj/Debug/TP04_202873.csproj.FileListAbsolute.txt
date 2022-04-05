@@ -1,0 +1,23 @@
+D:\Games\Visual Studio\Projetos\TP04_202873\TP04_202873\bin\Debug\TP04_202873.exe.config
+D:\Games\Visual Studio\Projetos\TP04_202873\TP04_202873\bin\Debug\TP04_202873.exe
+D:\Games\Visual Studio\Projetos\TP04_202873\TP04_202873\bin\Debug\TP04_202873.pdb
+D:\Games\Visual Studio\Projetos\TP04_202873\TP04_202873\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Games\Visual Studio\Projetos\TP04_202873\TP04_202873\obj\Debug\TP04_202873.csprojAssemblyReference.cache
+D:\Games\Visual Studio\Projetos\TP04_202873\TP04_202873\obj\Debug\TP04_202873.FrmGeral.resources
+D:\Games\Visual Studio\Projetos\TP04_202873\TP04_202873\obj\Debug\TP04_202873.Properties.Resources.resources
+D:\Games\Visual Studio\Projetos\TP04_202873\TP04_202873\obj\Debug\TP04_202873.csproj.GenerateResource.cache
+D:\Games\Visual Studio\Projetos\TP04_202873\TP04_202873\obj\Debug\TP04_202873.csproj.CoreCompileInputs.cache
+D:\Games\Visual Studio\Projetos\TP04_202873\TP04_202873\obj\Debug\TP04_202873.csproj.CopyComplete
+D:\Games\Visual Studio\Projetos\TP04_202873\TP04_202873\obj\Debug\TP04_202873.exe
+D:\Games\Visual Studio\Projetos\TP04_202873\TP04_202873\obj\Debug\TP04_202873.pdb
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP04_202873\TP04_202873\bin\Debug\TP04_202873.exe.config
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP04_202873\TP04_202873\bin\Debug\TP04_202873.exe
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP04_202873\TP04_202873\bin\Debug\TP04_202873.pdb
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP04_202873\TP04_202873\obj\Debug\TP04_202873.csprojAssemblyReference.cache
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP04_202873\TP04_202873\obj\Debug\TP04_202873.FrmGeral.resources
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP04_202873\TP04_202873\obj\Debug\TP04_202873.Properties.Resources.resources
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP04_202873\TP04_202873\obj\Debug\TP04_202873.csproj.GenerateResource.cache
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP04_202873\TP04_202873\obj\Debug\TP04_202873.csproj.CoreCompileInputs.cache
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP04_202873\TP04_202873\obj\Debug\TP04_202873.csproj.CopyComplete
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP04_202873\TP04_202873\obj\Debug\TP04_202873.exe
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP04_202873\TP04_202873\obj\Debug\TP04_202873.pdb
